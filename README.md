@@ -1,4 +1,4 @@
-# 喵眼电影项目（基于vue开发）
+# 电影项目
 
 ## 查看
 - git pull + 项目地址 -> npm install ->npm run serve
